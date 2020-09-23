@@ -14,4 +14,8 @@ public class TestClass {
         return "Hello, World!";
     }
     
+    public static String testMethod2(){
+        return "Hello again, world!";
+    }
+    
 }
